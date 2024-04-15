@@ -1,4 +1,4 @@
-Certainly! To provide a detailed description of your online voting system project, consider including the following components:
+
 
 Project Overview:
 
